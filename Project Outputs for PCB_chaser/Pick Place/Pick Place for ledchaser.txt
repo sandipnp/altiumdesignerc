@@ -1,0 +1,32 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\PCB_chaser\Project Outputs for PCB_chaser\Pick Place\Pick Place for ledchaser.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       30/11/23
+Time:       22:08
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment            Layer    Footprint           Center-X(mil) Center-Y(mil) Rotation Description                                                                                                          
+U2         CD74HC4017E        TopLayer N0016A              2093.095      2010.024      0        "High Speed CMOS Logic Decade Counter/Divider with 10 Decoded Outputs, N0016A, TUBE"                                 
+U1         NE555P             TopLayer P0008A              1202.386      1860.417      0        "Precision Timer, 4.5 to 16 V, 0 to 70 degC, 8-Pin DIP, Pb-Free, Tube"                                               
+R4         MFR-25FBF52-1K     TopLayer RESA60-630X240      2636.795      1976.559      90       "Axial Resistor, 1 KOhm, +/- 1%, 250 mW, -55 to 155 degC, 2-Pin THD, RoHS, Bulk"                                     
+R3         OD103JE            TopLayer OMTE-RES7X2.5-2     2243.095      972.622       180      "Little Demon(R) Carbon Composition Molded OD Series, 250 V, 10 KOhm, +/-5%, -70 to 130 degC, 2-Pin THD, RoHS, Bulk" 
+R2         3313J-1-503E       TopLayer BOUR-3313J-1_V      1061.992      1366.323      90       "3 mm Trimpot(R) Trimming Potentiometer, 50 KOhm, +/- 20%, 0.125 W, -55 to 125 degC, 3-Pin SMD, RoHS, Tape and Reel" 
+R1         MFR-25FBF52-1K     TopLayer RESA60-630X240      2065.929      1366.323      0        "Axial Resistor, 1 KOhm, +/- 1%, 250 mW, -55 to 155 degC, 2-Pin THD, RoHS, Bulk"                                     
+LED10      SML-P11UTT86       TopLayer FP-SML-P11UTT86-MFG 3030.496      2956.874      90       "LED RED CLEAR 1006 SMD"                                                                                             
+LED9       SML-P11UTT86       TopLayer FP-SML-P11UTT86-MFG 3205.000      1791.000      270      "LED RED CLEAR 1006 SMD"                                                                                             
+LED8       SML-P11UTT86       TopLayer FP-SML-P11UTT86-MFG 3200.000      1280.000      90       "LED RED CLEAR 1006 SMD"                                                                                             
+LED7       SML-P11UTT86       TopLayer FP-SML-P11UTT86-MFG 2636.795      202.937       90       "LED RED CLEAR 1006 SMD"                                                                                             
+LED6       SML-P11UTT86       TopLayer FP-SML-P11UTT86-MFG 1849.394      202.937       90       "LED RED CLEAR 1006 SMD"                                                                                             
+LED5       SML-P11UTT86       TopLayer FP-SML-P11UTT86-MFG 1061.992      596.638       90       "LED RED CLEAR 1006 SMD"                                                                                             
+LED4       SML-P11UTT86       TopLayer FP-SML-P11UTT86-MFG 668.291       990.338       90       "LED RED CLEAR 1006 SMD"                                                                                             
+LED3       SML-P11UTT86       TopLayer FP-SML-P11UTT86-MFG 274.591       1777.740      90       "LED RED CLEAR 1006 SMD"                                                                                             
+LED2       SML-P11UTT86       TopLayer FP-SML-P11UTT86-MFG 1061.992      2923.410      90       "LED RED CLEAR 1006 SMD"                                                                                             
+LED1       SML-P11UTT86       TopLayer FP-SML-P11UTT86-MFG 1849.394      2958.843      90       "LED RED CLEAR 1006 SMD"                                                                                             
+J1         M20-9990246        TopLayer FP-M20-9990246-MFG  1223.409      2508.055      180      "CONN HEADER VERT 2POS 2.54MM"                                                                                       
+C2         RCER71E226MWM1H03A TopLayer FP-RCEWM1-MFG       1357.268      972.622       0        "CAP CER 22UF 25V X7R RADIAL"                                                                                        
+C1         RCER71E226MWM1H03A TopLayer FP-RCEWM1-MFG       1455.693      1267.898      270      "CAP CER 22UF 25V X7R RADIAL"                                                                                        

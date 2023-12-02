@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 9:23:28 PM On 11/30/2023
+
+Output: Export STEP
+Type  : ExportSTEP
+From  : PCB Document [ledchaser.PcbDoc]
+   Generated File[ledchaser.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 9:23:31 PM On 11/30/2023
